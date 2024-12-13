@@ -8,6 +8,13 @@
         "click>=8.1.7",
         "cookiecutter>=2.6.0",
         "sqlalchemy>=2.0.36",
+        "tqdm>=4.67.1",
+        "tiktoken>=0.8.0",
+        "fastapi>=0.115.6",
+        "openai>=1.57.4",
+        "icecream>=2.1.3",
+        "uvicorn>=0.32.1",
+        "datasets>=3.2.0",
 ]
     description="A multi-agent scaffold for inspect-ai evaluations"
     license={text="None"}
