@@ -1,7 +1,18 @@
+# Custom
+*.env
+*venv
+*logs
+*.sql
+*.db
+*.db-journal
+*temp/
+temp/
 # Byte-compiled / optimized / DLL files
 __pycache__/
+*__pycache__/
 *.py[cod]
 *$py.class
+*.vscode/
 
 # C extensions
 *.so
