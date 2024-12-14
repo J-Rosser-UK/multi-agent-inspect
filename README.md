@@ -1,4 +1,45 @@
-# AISI Multi-Agent Inspect
+<div align="center">
+
+  <img src="assets/field.png" alt="A field with Llamas on it." width="200" height="auto" />
+  <h1>AISI Multi-Agent Inspect</h1>
+  
+  <p>
+    Expanding AISI's Inspect for robust multi-agent framework evals.
+  </p>
+  
+  
+<!-- Badges -->
+<p>
+  <a href="https://github.com/J-Rosser-UK/multi-agent-inspect/contributors">
+    <img src="https://img.shields.io/github/contributors/J-Rosser-UK/multi-agent-inspect" alt="contributors" />
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/github/last-commit/J-Rosser-UK/multi-agent-inspect" alt="last update" />
+  </a>
+  <a href="https://github.com/J-Rosser-UK/multi-agent-inspect/network/members">
+    <img src="https://img.shields.io/github/forks/J-Rosser-UK/multi-agent-inspect" alt="forks" />
+  </a>
+  <a href="https://github.com/J-Rosser-UK/multi-agent-inspect/stargazers">
+    <img src="https://img.shields.io/github/stars/J-Rosser-UK/multi-agent-inspect" alt="stars" />
+  </a>
+  <a href="https://github.com/J-Rosser-UK/multi-agent-inspect/issues/">
+    <img src="https://img.shields.io/github/issues/J-Rosser-UK/multi-agent-inspect" alt="open issues" />
+  </a>
+  <a href="https://github.com/J-Rosser-UK/multi-agent-inspect/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/J-Rosser-UK/multi-agent-inspect.svg" alt="license" />
+  </a>
+</p>
+   
+<h4>
+    </span>
+    <a href="https://github.com/J-Rosser-UK/multi-agent-inspect/issues/">Report Bug</a>
+  <span> · </span>
+    <a href="https://github.com/J-Rosser-UK/multi-agent-inspect/issues/">Request Feature</a>
+  </h4>
+</div>
+
+<br />
+
 
 High-performing agent scaffolding is crucial for assessing the upper limits of LLM capabilities, such that during evals we do not underestimate their potential. Multi-agent systems are known to generally outperform single agents on eval benchmarks, therefore this approach expands inspect to be capable of evaluating a wide range of multi-agent systems defined via a simple communication protocol.
 
