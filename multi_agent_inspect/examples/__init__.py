@@ -1,0 +1,7 @@
+from .chain_of_thought import COTAgentSystem
+from .debate import DebateAgentSystem
+from .dynamic_assignment_of_roles import DynamicRolesAgentSystem
+from .quality_diversity import QDAgentSystem
+from .reflexion import ReflexionAgentSystem
+from .self_consistency_with_chain_of_thought import SelfConsistencyAgentSystem
+from .step_back_abstraction import StepBackAgentSystem
